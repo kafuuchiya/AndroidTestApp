@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#6200EE</color>-->
+<!--    <color name="colorPrimaryDark">#3700B3</color>-->
+<!--    <color name="colorAccent">#03DAC5</color>-->
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--    my color-->
+    <color name="myC_topBar">#111111</color>
+    <color name="myC_whiteText">#FFFFFF</color>h
+    <color name="myC_highlightText">#ffdb4d</color>
+    <color name="myC_blueText">#0066ff</color>
+    <color name="myC_blackText">#999999</color>
+    <color name="myC_blackBg">#333333</color>
+    <color name="myC_whiteBg">#A8FFDB4D</color>
+
+    <!--    ranting satr-->
+    <color name="ratingStar_progress_bg">#e6e6e6</color>
+    <color name="ratingStar_secondary_progress">#ffdb4d</color>
+</resources>

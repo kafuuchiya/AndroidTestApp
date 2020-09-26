@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    app name -->
+    <string name="app_name">Android Test App</string>
+
+    <!--    button name -->
+    <string name="show_more">更多</string>
+
+    <!--    toolbar & dialog -->
+    <string name="display_mode">顯示模式</string>
+    <string name="language">語言</string>
+    <string name="list_mode">列表模式</string>
+    <string name="grid_mode">網格模式</string>
+    <string name="english">English</string>
+    <string name="chinese">中文</string>
+    <string name="dialog_T1">請選擇一種模式</string>
+    <string name="dialog_T2">請選擇一種語言</string>
+    <string name="dialog_ok_btn">OK</string>
+
+    <!--    object or array key value for the json-->
+    <string name="movThumbnail">thumbnail</string>
+    <string name="movRating">rating</string>
+    <string name="movName">chiName</string>
+    <string name="movFavCo">favCount</string>
+    <string name="movComCo">commentCount</string>
+    <string name="movOpenDate">openDate</string>
+    <string name="movDuration">duration</string>
+    <string name="movSynopsis">chiSynopsis</string>
+    <string name="movInfoDict">chiInfoDict</string>
+    <string name="movCategory">級別</string>
+    <string name="movDirector">導演</string>
+    <string name="movCast">演員</string>
+    <string name="movGenre">類型</string>
+    <string name="movLanguage">語言</string>
+
+    <!--    text view string of infoDict-->
+    <string name="tv_director">導演</string>
+    <string name="tv_cast">演員</string>
+    <string name="tv_genre">類型</string>
+    <string name="tv_language">語言</string>
+
+    <!--    time format-->
+    <string name="time_format">yyyy年 MM月 dd日</string>
+
+    <!--    Scalar unit-->
+    <string name="mins">分鐘</string>
+    <string name="category">級</string>
+</resources>

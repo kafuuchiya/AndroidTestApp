@@ -1,0 +1,47 @@
+<resources>
+    <!--    app name -->
+    <string name="app_name">Android Test App</string>
+
+    <!--    button name -->
+    <string name="show_more">MORE</string>
+
+    <!--    toolbar & dialog -->
+    <string name="display_mode">Display mode</string>
+    <string name="language">Language</string>
+    <string name="list_mode">List Mode</string>
+    <string name="grid_mode">Grid Mode</string>
+    <string name="english">English</string>
+    <string name="chinese">中文</string>
+    <string name="dialog_T1">Please select a mode</string>
+    <string name="dialog_T2">Please select a language</string>
+    <string name="dialog_ok_btn">OK</string>
+
+    <!--    object or array key value for the json-->
+    <string name="movThumbnail">thumbnail</string>
+    <string name="movRating">rating</string>
+    <string name="movName">name</string>
+    <string name="movFavCo">favCount</string>
+    <string name="movComCo">commentCount</string>
+    <string name="movOpenDate">openDate</string>
+    <string name="movDuration">duration</string>
+    <string name="movSynopsis">synopsis</string>
+    <string name="movInfoDict">infoDict</string>
+    <string name="movCategory">Category</string>
+    <string name="movDirector">Director</string>
+    <string name="movCast">Cast</string>
+    <string name="movGenre">Genre</string>
+    <string name="movLanguage">Language</string>
+
+    <!--    text view string of infoDict-->
+    <string name="tv_director">Director</string>
+    <string name="tv_cast">Cast</string>
+    <string name="tv_genre">Genre</string>
+    <string name="tv_language">Language</string>
+
+    <!--    time format-->
+    <string name="time_format">dd MMM, yyyy</string>
+
+    <!--    Scalar unit-->
+    <string name="mins">Mins</string>
+    <string name="category">Category</string>
+</resources>
