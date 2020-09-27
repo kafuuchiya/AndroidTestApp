@@ -34,7 +34,7 @@ First of all, this is the first time I use Kotlin to develop the Android applica
 |:--------------:|:--------:|
 | Android studio |  kotlin  |
 * Using the JSON format data
-* The language change is implemented based on the different key value of the JSON data, and the local string.xml
+* The language change is implemented based on the different key value of the JSON data, and the local file "string.xml"
 <br>
 
 **2. Features**
