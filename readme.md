@@ -18,7 +18,7 @@ It includes the following tasks:
 
 **Tab bar, Top bar button are not necessary to implement*
 
-![screenshot](https://raw.githubusercontent.com/kafuuchiya/Readme-Image/master/Android%20Test%20App/screenshot.jpg)
+![screenshot](https://i.imgur.com/AqCeWAw.jpg)
 
 * Screenshot 1: Movie list in Grid view
 * Screenshot 2: Movie list in List view
@@ -28,25 +28,25 @@ It includes the following tasks:
 First of all, this is the first time I use Kotlin to develop the Android applications. If you have any questions, please leave a message.
 
 
-**1. Technology**
+### 1. Technology
 
 |     Tools      | Language |
 |:--------------:|:--------:|
 | Android studio |  kotlin  |
 * Using the JSON format data
 * The language change is implemented based on the different key value of the JSON data, and the local file "string.xml"
-<br>
 
-**2. Features**
-* Show in list view  
-![screenshot](https://raw.githubusercontent.com/kafuuchiya/Readme-Image/master/Android%20Test%20App/show_in_list_view.gif)
 
-* Show in grid view  
-![screenshot](https://github.com/kafuuchiya/Readme-Image/blob/master/Android%20Test%20App/show_in_grid_view.gif)
+### 2. Features
+* **Show in list view**  
+![screenshot](https://i.imgur.com/hk8ryG8.gif)
 
-* Show movie details (& carousel view)  
-![screenshot](https://github.com/kafuuchiya/Readme-Image/blob/master/Android%20Test%20App/show_movie_details.gif)
-![screenshot](https://github.com/kafuuchiya/Readme-Image/blob/master/Android%20Test%20App/carousel_view.gif.gif)
+* **Show in grid view**  
+![screenshot](https://i.imgur.com/iUlGwHx.gif)
 
-* Change language (Additional function)  
-![screenshot](https://github.com/kafuuchiya/Readme-Image/blob/master/Android%20Test%20App/change_language.gif.gif)
+* **Show movie details (& carousel view)**  
+![screenshot](https://i.imgur.com/nHYCA0G.gif)
+![screenshot](https://i.imgur.com/SfaTYaO.gif)
+
+* **Change language (Additional function)**  
+![screenshot](https://i.imgur.com/hPlGHhi.gif)
